@@ -1,0 +1,23 @@
+
+---
+title: "Sunday-eve"
+date: 2022-08-21
+---
+
+This weekend was a good one - spending time with family. I have not had a chance to sit down and program just yet, as we are getting ready for a holiday away,
+and of course having a social life means you cant just sit down at a computer and code for 48 hours straight each Friday Evening (some would say that is a good thing..).
+
+Over the weekend I had an idea to try and solve a project issue I have had for my investment project - that being, how to create variables for each quality out of a dataframe in Python.
+
+To try to give a simpler explanation; the data was taken from a PostgreSQL database and put into the Python programme but was in a Dataframe. I am still learning, so 
+I was not sure how best to store this. 
+
+I will try to store the values by using Classes, Objects and Constructors, to get more experienece with them, and also because it seems like the best way to do so.
+
+That being said, I am currently not thinking at 100% so please take the above and my code with a pinch of salt!
+
+Anyway, I'm going to get some food.
+
+Until next time.
+
+E
